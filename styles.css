@@ -1,7 +1,19 @@
 body {
-    background-color: lightblue;
+    background-image: url(https://images.unsplash.com/photo-1567207298942-9e43f9b5e365?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
     text-align: center;
     font-family:cursive;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.text-results {
+    font-size: 30px;
 }
 
 .btn {
